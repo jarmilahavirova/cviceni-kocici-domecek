@@ -5,4 +5,4 @@ Tento projekt vznikl v rámci Digitální akademie Web u Czechitas. Slouží pri
 ## Zadání:
 Cvičení pro CSS position. 
 
-Postupujte podle zadání [Kočičí domeček](https://kodim.cz/kurzy/daweb/html-a-css/opakovani-a-position/cv-position). 
+Postupujte podle zadání [Kočičí domeček](https://kodim.cz/czechitas/daweb/html-a-css/opakovani-a-position/cv-position/kocici-domecek). 
